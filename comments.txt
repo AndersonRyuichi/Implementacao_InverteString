@@ -1,0 +1,6 @@
+Utilizei o .split, para separar os caracteres e
+.lenght para saber o tamanho da minha "lista".
+Sabendo o tamanho da lista, enquanto ele nao
+percorrer a lista toda, ele nao vai parar de
+executar o programa, ao final da execucao ele
+ira mostrar o resultado.
